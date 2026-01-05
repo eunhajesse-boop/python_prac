@@ -1,0 +1,8 @@
+1. 변경사항 만들기
+    이 텍스트가 변경사항
+2. 저장하기
+    git add .
+    git commit -m 'message'
+3. 업로드 하기
+    git push
+    
